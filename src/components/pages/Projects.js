@@ -1,6 +1,7 @@
 import React from 'react';
+import ProjectContainer from '../ProjectContainer';
 
-export default function Blog() {
+export default function Projects() {
   return (
     <div>
       <h1>Blog Page</h1>
@@ -19,6 +20,10 @@ export default function Blog() {
         bibendum congue. Pellentesque semper, lectus non ullamcorper iaculis,
         est ligula suscipit velit, sed bibendum turpis dui in sapien.
       </p>
+      <div>
+        <ProjectContainer />
+      </div>
     </div>
+     
   );
 }
