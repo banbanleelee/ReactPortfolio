@@ -14,8 +14,14 @@
     padding: 1vw;
 }
 
-#navigation a, a:hover, a:visited, a:active {
+#homepage a, a:visited {
     color: inherit;
+    text-decoration: none;
+    border: none;
+}
+
+#homepage a:hover, a:active {
+    color: var(--isabelline);
     text-decoration: none;
     border: none;
 }
