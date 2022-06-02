@@ -20,16 +20,16 @@ Click this link: https://banbanleelee.github.io/ReactPortfolio/
 
 ## Skillset
 
-AWS: Lambda, ServerLess
-Frontend: HTML, CSS, JavaScript
-Libraries/Frameworks: jQuery, React.js
-CSS Libraries: Bootstrap, Materialize, FontAwesome, KendoUI
-Backend Environment: Node.js
-Databases: MySQL, MongoDB, Mongoose, GraphQL
-Miscellaneous: Agile Methodology
-Source Control: Git
-Graphics: Adobe Photoshop, Canva
-IDEs: Visual Studio Code
+* AWS: Lambda, ServerLess
+* Frontend: HTML, CSS, JavaScript
+* Libraries/Frameworks: jQuery, React.js
+* CSS Libraries: Bootstrap, Materialize, FontAwesome, KendoUI
+* Backend Environment: Node.js
+* Databases: MySQL, MongoDB, Mongoose, GraphQL
+* Miscellaneous: Agile Methodology
+* Source Control: Git
+* Graphics: Adobe Photoshop, Canva
+* IDEs: Visual Studio Code
 
 
 ## License
