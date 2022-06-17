@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ReactPortfolio/static/css/main.031ab5ac.css",
-    "main.js": "/ReactPortfolio/static/js/main.5128edb6.js",
+    "main.js": "/ReactPortfolio/static/js/main.18c5f677.js",
     "static/js/415.cf700f5d.chunk.js": "/ReactPortfolio/static/js/415.cf700f5d.chunk.js",
     "static/js/787.6b8d4b06.chunk.js": "/ReactPortfolio/static/js/787.6b8d4b06.chunk.js",
     "static/media/MovieHunters.png": "/ReactPortfolio/static/media/MovieHunters.0505eb54bc5b5b3a9576.png",
@@ -14,12 +14,12 @@
     "static/media/pre.svg": "/ReactPortfolio/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/ReactPortfolio/index.html",
     "main.031ab5ac.css.map": "/ReactPortfolio/static/css/main.031ab5ac.css.map",
-    "main.5128edb6.js.map": "/ReactPortfolio/static/js/main.5128edb6.js.map",
+    "main.18c5f677.js.map": "/ReactPortfolio/static/js/main.18c5f677.js.map",
     "415.cf700f5d.chunk.js.map": "/ReactPortfolio/static/js/415.cf700f5d.chunk.js.map",
     "787.6b8d4b06.chunk.js.map": "/ReactPortfolio/static/js/787.6b8d4b06.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.031ab5ac.css",
-    "static/js/main.5128edb6.js"
+    "static/js/main.18c5f677.js"
   ]
 }
