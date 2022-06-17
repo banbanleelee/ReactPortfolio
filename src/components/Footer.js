@@ -1,14 +1,58 @@
-import React from 'react';
+import React from "react";
+import { Container, Row, Col } from "react-bootstrap";
+import {
+  AiFillGithub,
+  AiTwotoneMail,
+} from "react-icons/ai";
+import { FaLinkedinIn } from "react-icons/fa";
 
 function Footer() {
-    return (
-        <div>
-            <a href="mailto:sallyhoney96@gmail.com">Email | </a>
-            <a href="https://github.com/banbanleelee">Github | </a>
-            <a href="https://www.linkedin.com/in/sally-zhang-11b743b5/">LinkedIn | </a>
-            <a href="https://docs.google.com/document/d/1Emz4krU3iXlY4Vw2iSAzzYdRSIo19U89CH6QBXsCBm4/edit?usp=sharing">Resume | </a>
-        </div>
-    );
+  return (
+    <Container fluid className="footer">
+      <Row>
+        <Col md="4" className="footer-copywright">
+          <h3> </h3>
+        </Col>
+        <Col md="4" className="footer-copywright">
+          <h3> </h3>
+        </Col>
+        <Col md="4" className="footer-body">
+          <ul className="footer-icons">
+            <li className="social-icons">
+              <a
+                href="https://github.com/banbanleelee"
+                style={{ color: "white" }}
+                target="_blank" 
+                rel="noopener noreferrer"
+              >
+                <AiFillGithub />
+              </a>
+            </li>
+            <li className="social-icons">
+              <a
+                href="https://www.linkedin.com/in/yixuan-zhang-11b743b5/"
+                style={{ color: "white" }}
+                target="_blank" 
+                rel="noopener noreferrer"
+              >
+                <FaLinkedinIn />
+              </a>
+            </li>
+            <li className="social-icons">
+              <a
+                href="mailto:sallyyixuanzhang@gmail.com"
+                style={{ color: "white" }}
+                target="_blank" 
+                rel="noopener noreferrer"
+              >
+                <AiTwotoneMail />
+              </a>
+            </li>
+          </ul>
+        </Col>
+      </Row>
+    </Container>
+  );
 }
 
 export default Footer;
