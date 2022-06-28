@@ -5,7 +5,7 @@ import Particle from "../Particle";
 import DealLifter from "../../Assets/Projects/Deallifter.png";
 import WeGotFlavor from "../../Assets/Projects/WeGotFlavor.png";
 import MovieHunter from "../../Assets/Projects/MovieHunters.png";
-
+import HoneyBee from "../../Assets/Projects/HoneyBee.png";
 
 function Projects() {
   return (
@@ -46,6 +46,16 @@ function Projects() {
               title="Movie Hunters"
               description="A real-time movie search engine using third-party APIs to provide detailed information based on user input. Built with jQuery. Uses IMDB API to gather, provide, and render data. Uses local storage to customize user experience."
               link="https://github.com/banbanleelee/MovieHunter"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={HoneyBee}
+              isBlog={false}
+              title="Honey Bee Music"
+              description="A discord music bot streaming by user requests. A total of 17 commands available in English and Mandarin, including ~play, ~search, ~loopqueue, ~looptrack, ~shuffle, ~next, ~last, ~stop, ~clear, ~progress, ~seek, etc."
+              link="https://github.com/banbanleelee/HoneyBee"
             />
           </Col>
 

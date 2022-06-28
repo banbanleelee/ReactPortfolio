@@ -12,7 +12,7 @@ I built a full-stack MERN project to help my company manage a complicated event 
 
 ## Skills and Experience
 
-Georgia Tech Full Stack Coding Bootcamp (Expected to finish June 2022)
+Georgia Tech Full Stack Coding Bootcamp (Finished June 2022)
 
 ## Deployed App
 
