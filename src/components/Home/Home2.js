@@ -16,18 +16,15 @@ function Home2() {
               LET ME <span className="yellow"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and dedicated myself since 2021.
-              <br />
-              <br />I am fluent in classics like
-                <b className="yellow"> HTML, CSS and Javascript. </b>
+            I offer a unique blend of <b className="yellow">marketing</b> and <b className="yellow">psychology</b> expertise to optimize user experiences on the web while committing to continuous learning and expanding my technical skill set.
               <br />
               <br />
-              My field of Interest's is building new &nbsp;
-                <b className="yellow">MERN applications </b> to provide <b className="yellow"> practical</b>,  <b className="yellow">efficient</b>, and  <b className="yellow">creative </b> solutions.
+              After completing <b className="yellow">Georgia Tech Coding Bootcamp</b>, I was recommended to a <b className="yellow">Teaching Assistant</b> position where I tutored and assisted in the graduation of <b>~80</b> students across <b>2</b> cohorts.
               <br />
               <br />
-              I never cease to hone my skills with modern Javascript library and frameworks, and am currently learning
-              <b className="yellow"> Next.js</b> and <b className="yellow"> Redux.js</b>.
+              My passion is leveraging <b className="yellow">MERN stack</b> to build <b className="yellow"> practical</b>, <b className="yellow">efficient</b>, and <b className="yellow">creative </b> solutions.
+              <br />
+              <br />
             </p>
           </Col>
           <Col md={4}>
@@ -60,7 +57,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="mailto:sallyyixuanzhang@gmail.com"
+                  href="mailto:sallyzhang0205@gmail.com"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"

@@ -12,7 +12,6 @@ function AboutCard() {
             Hi there, thanks for visiting! 👋
             <br />
             I live in <span className="yellow"> Florida</span>, and originally from <span className="yellow"> China</span>.
-            <br />Recently, I graduated from <span className="yellow"> Georgia Tech Coding Boot Camp</span>.
             <br />
             <br />
             Apart from coding, I also devote myself in
