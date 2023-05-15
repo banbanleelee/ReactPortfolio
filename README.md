@@ -3,13 +3,6 @@
 I am a full-stack web developer with a marketing and psychology background to comprehend users' preferences and experience to optimize their experience on the web. Recently earned a certificate in full-stack development from Georgia Tech, with newly developed skills in JavaScript, CSS, React.js, Node.js, PWA, and MERN. 
 I built a full-stack MERN project to help my company manage a complicated event registration process, including planning for the available slots, registering attending participants, and tracking relevant data. I am excited to use my skills to automate work process and deliver good results. 
 
-## Table Of Contents 
- - [Education](#Education)
- - [Deployed App](#screenshot)
- - [Skillset](#skillset)
- - [License](#license)
- - [Connect With Me](#connect-with-me)
-
 ## Skills and Experience
 
 Georgia Tech Full Stack Coding Bootcamp (Finished June 2022)
